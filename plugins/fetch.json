@@ -1,0 +1,33 @@
+{
+    "com.megster.cordova.bluetoothserial": {
+        "source": {
+            "type": "registry",
+            "id": "com.megster.cordova.bluetoothserial"
+        }
+    },
+    "org.apache.cordova.device": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.device"
+        }
+    },
+    "com.pylonproducts.wifiwizard": {
+        "source": {
+            "type": "registry",
+            "id": "com.pylonproducts.wifiwizard"
+        }
+    },
+    "org.apache.cordova.network-information": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.network-information"
+        }
+    },
+    "org.apache.cordova.wifiinfo": {
+        "source": {
+            "type": "git",
+            "url": "https://github.com/dippi/org.apache.cordova.wifiinfo",
+            "subdir": "."
+        }
+    }
+}
